@@ -1,0 +1,12 @@
+SMAP
+initparam_005fel_jsp.java
+JSP
+*S JSP
+*F
++ 0 initparam_el.jsp
+initparam_el.jsp
+*L
+5,10:44
+15:54,3
+16,3:57
+*E

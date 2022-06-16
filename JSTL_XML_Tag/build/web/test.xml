@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+    <book>
+        <name>Java SE</name>
+        <author>Jame Goseleng</author>
+        <price>100</price>
+    </book>
+
+    <book>
+        <name>Java EE</name>
+        <author>Matt</author>
+        <price>150</price>
+    </book>
+</books>

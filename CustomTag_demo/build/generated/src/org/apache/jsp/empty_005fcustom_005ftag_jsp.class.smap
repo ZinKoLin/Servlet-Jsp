@@ -1,0 +1,12 @@
+SMAP
+empty_005fcustom_005ftag_jsp.java
+JSP
+*S JSP
+*F
++ 0 empty_custom_tag.jsp
+empty_custom_tag.jsp
+*L
+5,14:49
+18:88,4
+18,7:65
+*E

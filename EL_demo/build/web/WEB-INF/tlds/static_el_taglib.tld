@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+  <tlib-version>1.0</tlib-version>
+  <short-name>static_el_taglib</short-name>
+  <uri>/WEB-INF/tlds/static_el_taglib</uri>
+  
+  <function>
+      <name>caculate</name>
+      <function-class>demo.MyClass</function-class>
+      <function-signature>int calculate()</function-signature>
+  </function>
+  
+  
+</taglib>
